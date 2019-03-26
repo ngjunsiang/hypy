@@ -1,6 +1,6 @@
 # hypy
 
-This is a straightforward API module for [Hypothes.is](https://web.hypothes.is/).
+This is a straightforward API module for [Hypothes.is](https://web.hypothes.is/).  
 [See the Hypothes.is API documentation](https://h.readthedocs.io/en/latest/api-reference/) for details of parameters available.
 
 ## Requirements
